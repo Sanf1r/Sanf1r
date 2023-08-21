@@ -13,7 +13,7 @@
 ### :man_technologist: About Me :
 My name is Pavel and currently i'm learning programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at school 21.
 
-- :seedling: Here i upload my educational projects from 26.04.2022 up to the current moment.
+- :seedling: Here i upload my educational projects since 26/04/2022 until now.
 
 - :mailbox: My Telegram: @Its_Pabl0 
 
